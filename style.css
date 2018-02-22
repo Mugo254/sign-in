@@ -1,0 +1,43 @@
+hr{
+	height: 2px;
+	border: none;
+	color: grey;
+	background-color: grey;
+	margin: 0.5em;
+
+}
+.container{
+	width: 60%;
+	border: 0.05em solid grey;
+	margin: 10em auto 10em auto;
+	padding: 0;
+	
+}
+table{
+	width: 100%;
+}
+thead th a{
+	padding: 1em;
+	color: white;
+
+}
+.now{
+	margin: 1em;
+}
+.kim{
+	margin: 1em;
+}
+.high{
+	margin: 1em;
+}
+.btn{
+	margin: 1em;
+}
+
+p{
+	margin: 1em;
+	height: 30px;
+}
+thead{
+	height: 40px;
+}
